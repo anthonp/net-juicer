@@ -5,6 +5,8 @@
 - 6/21/23 Added Layer 1 features (see wishlist)
 
 ## Dependencies: Python3
+Disclaimer: This has only been tested on Fedora, Linux Mint, and Raspberry Pi Desktop (2023-05-03); you are on your own/responsible for making a pull request for your distro's support.
+
 
 Debian/Ubuntu/PI:
 ```
