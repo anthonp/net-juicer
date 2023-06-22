@@ -1,6 +1,9 @@
 # net-juicer
 <p>I created this because I wanted another BASH challenge, and because it's useful! 3-4 tools in one.</p>
 
+## Updates:
+- 6/21/23 Added Layer 1 features (see wishlist)
+
 ## Dependencies: Python3
 
 Debian/Ubuntu/PI:
@@ -32,6 +35,8 @@ Also feel free to add to path and make it one of your regular Linux commands ;)
 - [x] Netstat
 - [x] IP/CIDR/Gateway/Hostname Info
 - [x] ICMP Ping Test
+- [x] Layer 1 Features (Link Status, LAN Speed, Duplex State, MAC Address)
+- [ ] Lite Version (No ICMP Ping, Speed Test, or netstat (No callout version)) 
 - [ ] CDP/LLDP Implementation for switch ports
 - [ ] Captive portal/web detection
 - [ ] DNS info/resolution
