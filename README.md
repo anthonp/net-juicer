@@ -15,6 +15,9 @@ sudo dnf install python3
 
 ## Running:
 ```
+chmod +x net-juicer-*.sh
+```
+```
 ./net-juicer-slim.sh
 ```
 ```
