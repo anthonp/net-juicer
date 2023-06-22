@@ -13,6 +13,13 @@ sudo dnf install python3
 ```
 [Just go here ↗](https://docs.python.org/3/using/unix.html)
 
+## Running:
+```
+./net-juicer-slim.sh
+```
+```
+./net-juicer-speed-test.sh 
+```
 Feel free to download/copy/modify, just let me know! I want to know what you do with it.
 Also feel free to add to path and make it one of your regular Linux commands ;)
 
